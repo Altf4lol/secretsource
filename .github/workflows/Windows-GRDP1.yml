@@ -8,11 +8,11 @@ on:
         required: true
       computername:
         description: 'Computer Name'
-        default: 'CapciRDP1'
+        default: 'MagustRDP1'
         required: true
       pincode:
         description: 'Six digit Pin'
-        default: '666666'
+        default: '555555'
         required: true
 
 jobs:
